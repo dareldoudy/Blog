@@ -1,0 +1,29 @@
+body {
+    background-color: #0a37c9;
+}
+
+h1 , p{
+    color: rgb(190, 40, 40);
+}
+
+.formulaire-de-connexion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.input-id {
+    padding: 6px;
+    margin: 3px;
+}
+
+.input-password {
+    padding: 6px;
+    margin: 3px;
+}
+
+.bouton-de-connexion {
+        margin: 0 auto;
+        width: 100px;
+}
